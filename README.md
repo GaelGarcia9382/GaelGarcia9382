@@ -11,6 +11,7 @@
 <!-- Sobre mí -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sobre mí
 
+- 🐧 Usuario de **Ubuntu** como distribución principal de Linux.
 - 🎓 Estudiante de **Ingeniería en TICs** en último semestre — Instituto Tecnológico de Aguascalientes.
 - 💼 Busco incorporarme a una empresa de TI en una posición **junior** y realizar mi **residencia profesional**.
 - 🚀 He desarrollado aplicaciones web y móviles, APIs, sistemas conectados a bases de datos, proyectos de ciberseguridad y soluciones de analítica de datos.
@@ -21,6 +22,7 @@
 
 <!-- Tecnologías -->
 ## 🛠️ Competencias Técnicas
+- 🖥️ Sistemas operativos: Ubuntu, Windows, Kali Linux.
 
 ### 👨‍💻 Desarrollo
 <p align="left">
@@ -54,6 +56,7 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -144,6 +147,7 @@
 ---
 
 <!-- Contacto -->
+<!-- Contacto -->
 ## 📫 Contacto
 
 <p align="center">
@@ -152,6 +156,9 @@
   </a>
   <a href="https://github.com/GaelGarcia9382">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
